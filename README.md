@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on **decentralized-yet-prosocial**
 
-- 📝 I regularly write articles on [http://scafaria.com](http://scafaria.com)
+- 📝 I regularly write articles on [prosocial capitalism](http://scafaria.com)
 
-- 💬 Ask me about **C#, SQL**
+- 💬 Ask me about **economics, C#, SQL**
 
 - 📫 How to reach me **vince@positivesum.net**
 
