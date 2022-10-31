@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://prosocialcapitalism.com/about/](https://prosocialcapitalism.com/about/)
 
-- ⚡ Looking for my work github account? **vsjc91**
+- ⚡ Looking for my work github account? **[vsjc91](https://github.com/vsjc91)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
