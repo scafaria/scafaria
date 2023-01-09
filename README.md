@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [the human-centric web](scafaria.com) at [https://positivesum.net](positivesum.net).
 
+- 📄 My Whosum portable identity profile is https://whosum.com/gh/scafaria
+
 - 👯 I’m looking to collaborate on **decentralized-yet-prosocial**
 
 - 📝 I regularly write articles on [prosocial capitalism](http://scafaria.com)
