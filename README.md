@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vince Scafaria</h1>
 <h3 align="center">a privacy-first software engineer in NY</h3>
 
-- 🔭 I’m currently working on [the human-centric web](scafaria.com) at [https://positivesum.net](positivesum.net).
-
 - 👯 I’m looking to collaborate on **decentralized-yet-prosocial**
 
-- 📝 I regularly write articles on [prosocial capitalism](http://scafaria.com)
-
-- 💬 Ask me about **economics, C#, SQL**
-
 - 📫 How to reach me **vince@positivesum.net**
-
-- 📄 Know about my experiences [https://prosocialcapitalism.com/about/](https://prosocialcapitalism.com/about/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
